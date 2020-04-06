@@ -1,9 +1,11 @@
 # Social Platform 
 ---
 
-[Demo](https://huangtingyu04.github.io/Social-Platform-/index.html#members)
+[Demo](https://huangtingyu04.github.io/Social-Platform-/index.html)
 
 A web application for users who want to meet friends around the world!
+
+![image](https://github.com/huangtingyu04/Social-Platform-/blob/master/img/social-platform.gif)
 
 ## Features
 ---
