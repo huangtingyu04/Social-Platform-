@@ -5,8 +5,6 @@
 
 A web application for users who want to meet friends around the world!
 
-
-
 ## Features
 ---
 
