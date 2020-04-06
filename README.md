@@ -1,5 +1,4 @@
 # Social Platform 
----
 
 [Demo](https://huangtingyu04.github.io/Social-Platform-/index.html)
 
@@ -8,7 +7,6 @@ A web application for users who want to meet friends around the world!
 ![image](https://github.com/huangtingyu04/Social-Platform-/blob/master/img/social-platform.gif)
 
 ## Features
----
 
 - Display Profile
   - listing users profile(e.g., name, image, age, etc) from lighthouse API
